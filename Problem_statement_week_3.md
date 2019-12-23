@@ -17,6 +17,8 @@ To summarized, the problem statement are as listed below:
 1. By studying the performance of Bubble tea shop at Kuala Lumpur, find the best bubble tea brand. Rate the bubble tea base on:
    - size (no of outlet)
    - average rating
+   - Price
+   - footfall if possible
 2. The current bubble tea situation in Ipoh and Penang.
 3. Where is the best location if a franchisee plan to start up another bubble tea shop around Ipoh and Penang?
 
